@@ -70,13 +70,4 @@ jupyter notebook "_Análisis_Predictivo_para_una_Tienda_Minorista_.ipynb"
 
 Python · pandas · matplotlib · seaborn · scikit-learn · Jupyter Notebook
 
-## 🔭 Próximos pasos
 
-- Validar con una **división temporal** (entrenar con meses anteriores y probar con los posteriores) en lugar de una división aleatoria, que es más realista para series de ventas.
-- Ajustar el escalador solo con los datos de entrenamiento para evitar fuga de información.
-- Agregar métricas de error (MAE, RMSE) además de R².
-- Incorporar variables adicionales (mes, clima, eventos locales).
-
-## 👤 Autor
-
-**<Tu nombre>** · [LinkedIn](https://www.linkedin.com/in/<tu-perfil>) · [GitHub](https://github.com/<tu-usuario>)
